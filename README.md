@@ -1,21 +1,8 @@
-# Proxmox
+IyBQcm94bW94CgoKLS0tCgojIyMgRGVtbwoKLS0tCgojIyMgSW5zdGFsbCBM
+aWJyYXJ5CgpgYGBiYXNoCmRhcnQgcHViIGFkZCBwcm94bW94CmBgYAoKb3Ig
+Zmx1dHRlcgoKYGBgYmFzaApkYXJ0IHB1YiBhZGQgcHJveG1veF9mbHV0dGVy
+CmBgYAogIyBwcm94bW94Cg==
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add proxmox
-```
-
-or flutter
-
-```bash
-dart pub add proxmox_flutter
-```
- # proxmox
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
